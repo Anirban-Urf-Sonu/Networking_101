@@ -1,2 +1,6 @@
 # Networking_101
-“My Networking 101 learning notes for fundamentals and basics.”
+
+
+This repository is a collection of my basic networking learning notes.
+
+
